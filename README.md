@@ -25,7 +25,7 @@ python train_model.py
 
 3️⃣ Testar o Modelo com a Webcam
 Use o script test_model.py para realizar o reconhecimento de emoções em tempo real. Certifique-se de que os arquivos do modelo (modelo_classificacao_emocao.json, modelo_classificacao_emocao.weights.h5) e o arquivo de rótulos (rotulos.txt) estejam no mesmo diretório.
-python test_model.py
+python test_model.ipynb
 
 Dica: Pressione Esc para encerrar a aplicação.
 
