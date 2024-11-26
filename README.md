@@ -14,7 +14,7 @@ Este projeto implementa um sistema que reconhece emoções em tempo real utiliza
 - **Bibliotecas:** NumPy, json
 - **Dataset:** FER2013 para treinamento.
 
-##🚀 Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 1️⃣ Pré-processar os Dados
 Execute o script pre_proc.py para preparar o dataset FER2013. Certifique-se de configurar corretamente o caminho para o arquivo CSV no script.
 python pre_proc.py
@@ -29,12 +29,12 @@ python test_model.py
 
 Dica: Pressione Esc para encerrar a aplicação.
 
-##🌟 Possíveis Melhorias
+## 🌟 Possíveis Melhorias
 Ajustar para diferentes condições de iluminação.
 Adicionar suporte para mais categorias de emoções.
 Otimizar o desempenho para dispositivos com hardware limitado.
 
-##🤝 Contribuindo
+## 🤝 Contribuindo
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
 
 
